@@ -27,5 +27,8 @@ htmlcov/
 # Direnv
 .envrc
 .direnv
+endcpy
 
 .github/**
+.DS_Store
+__pycache__
